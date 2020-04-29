@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Information on guest lectures I have given
 ---
 <h3> Guest Lectures</h3>

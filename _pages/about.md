@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Maya</strong> Sappelli
-description: Researcher @ <a href="http://www.han.nl">HAN University of Applied Sciences</a>
+description: Data Science Researcher @ <a href="http://www.han.nl">HAN University of Applied Sciences</a>
 
 profile:
   align: right

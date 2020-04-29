@@ -2,7 +2,7 @@
 layout: page
 title: Praktische Predictie
 description: predicting development of back pain
-img: /assets/img/praktischepredictie_01.png
+img: /assets/img/2.jpg
 ---
 
 ###Partners

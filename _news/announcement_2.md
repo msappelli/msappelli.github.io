@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Presentation on Personalized Summarization coming up
-date: 2020-04-29 14:00:00+0200
+title: EU workshop "Summarization - Key to information overload"
+date: 2020-04-28 18:00:00+0200
+eventdate: 2020-05-28 14:00:00+0200
 inline: false
 ---
 

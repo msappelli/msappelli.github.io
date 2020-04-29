@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leergemeenschap Onderzoeksmethodologie
-description: Bringing together and Learning together on research methods which reduce health differences 
+title: Research Methodology
+description: Learning Environment on research methods for health differences 
 img: /assets/img/dataanalyse.jpg
 ---
 
