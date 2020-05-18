@@ -5,10 +5,10 @@ description: predicting development of back pain
 img: /assets/img/2.jpg
 ---
 
-###Partners
+### Partners
 HAN Physical Therapy
 ***
-###Description
+### Description
 In this project we aim to predict the development of pain complaints in people with backpain. 
 Most patients who visit a physical therapist with backpain do not need an intervention and will heal automatically. 
 Only a small portion of patients develop chronic complaints. In order to assess this
