@@ -6,9 +6,10 @@ img: /assets/img/dataanalyse.jpg
 ---
 
 ### Partners
-HAN Zwaartepunt Health
+* HAN Zwaartepunt Health
 
 ***
+
 ### Description
 
 In this learning environment we work on awareness and research methodology in order

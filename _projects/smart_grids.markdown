@@ -6,8 +6,11 @@ img: /assets/img/smartgrid.svg
 ---
 
 ### Partners
-HAN Control Systems
+* HAN Zwaartepunt Sustainable Energy & Environment
+* HAN Control Systems
+
 ***
+
 ### Description
 In this project we are creating an overview of the challenges and opportunities of using data in the energy sector.
 

@@ -6,8 +6,10 @@ img: /assets/img/2.jpg
 ---
 
 ### Partners
-HAN Physical Therapy
+* HAN Physical Therapy
+
 ***
+
 ### Description
 In this project we aim to predict the development of pain complaints in people with backpain. 
 Most patients who visit a physical therapist with backpain do not need an intervention and will heal automatically. 

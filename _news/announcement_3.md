@@ -7,4 +7,4 @@ inline: false
 ---
 
 In the text minig seminar of the University of Leiden I will repeat my talk on 
-[Personalized  News Summarization in the Financial Economic domain](news/announcement_2/)
+[Personalized  News Summarization in the Financial Economic domain](../../news/announcement_2/)
