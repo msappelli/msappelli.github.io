@@ -28,9 +28,16 @@ I have given several guest lectures in the past. On this page you can find some 
 <h3> Graduation projects</h3>
 
 I have also been a supervisor on several graduation projects:
+<h3 class="year">2020</h3>
+* Fleur Bosman & Diede Otten (HAN University of Applied Sciences) - inclusief onderzoek (co-supervision with L. van Hal)
+
 <h3 class="year">2019</h3>
 
-* Klaus Lux (Radboud University) On the factual correctness and robustness of deep abstractive text summarization 
+* Klaus Lux (Radboud University) - *On the factual correctness and robustness of deep abstractive text summarization* 
 
 
 <h3 class="year">before 2018</h3>
+* Paul Verhaar (Utrecht University)  - *Radical Reddits: into the Minds of Online Radicalised Communities*
+* Nicole Walasek (Radboud University) - *Medical Entity Extraction on Dutch forum data in the absence of labeled training data*
+* Hella Haanstra (UvA) - *Opinion aspect extraction in Dutch childrens diary entries* (co-supervision with M. de Boer)
+* Marjolein de Vries (Utrecht University) - *Machine Learning for Sentiment Analysis of Children's Diaries*
