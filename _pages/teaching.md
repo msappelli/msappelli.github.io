@@ -6,8 +6,11 @@ description: Information on guest lectures I have given
 ---
 <h3> Guest Lectures</h3>
 I have given several guest lectures in the past. On this page you can find some information on them.
+
 <h3 class="year">2020</h3>
-* Artificial Intelligence & Deep Learning in ['Smart Vehicles'](https://www.minoren-han.nl/nl/414-advanced-mobility-smart-vehicles-and-smart-infrastructure) - HAN University of applied sciences
+* Summarization in ['Text Mining'](https://sis.ru.nl/osiris-student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=LET-REMA-LCEX06&collegejaar=2019) - Radboud University
+* Text Mining in ['Minor Data Science'](https://www.kiesopmaat.nl/modules/han/FT/139104/) - HAN University of Applied Sciences
+* Artificial Intelligence & Deep Learning in ['Smart Vehicles'](https://www.minoren-han.nl/nl/414-advanced-mobility-smart-vehicles-and-smart-infrastructure) - HAN University of Applied Sciences
 
 <h3 class="year">2019</h3>
 * Summarization in ['Text Mining'](https://sis.ru.nl/osiris-student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=LET-REMA-LCEX06&collegejaar=2019) - Radboud University
