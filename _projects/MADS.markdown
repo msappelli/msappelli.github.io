@@ -2,7 +2,7 @@
 layout: page
 title: MADS
 description: Master Applied Data Science 
-img: /assets/img/dataanalyse.jpg
+img: /assets/img/9.jpg
 ---
 
 ### Partners
