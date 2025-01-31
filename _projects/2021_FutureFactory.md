@@ -4,7 +4,7 @@ title: Future Factory
 description: data science for sustainable homes
 img: /assets/img/8.jpg
 importance: 1
-category: projects
+category: past
 ---
 
 ### Partners

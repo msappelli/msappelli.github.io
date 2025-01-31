@@ -4,7 +4,7 @@ title: Knowledge Graphs in a coorporate environment
 description: Text mining for communication
 img: /assets/img/2.jpg
 importance: 1
-category: projects
+category: past
 ---
 
 
