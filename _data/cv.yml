@@ -1,0 +1,44 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Maya Sappelli
+    - name: Languages
+      value: Dutch, English, German, French (basics), Dutch Sign Language (basics) 
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Radboud University, Nijmegen
+      year: 2015
+      description:
+        - Context-aware information retrieval and text mining
+        - title: Knowledge work in Context
+    - title: MSc Artificial Intelligence
+      institution: Radboud University, Nijmegen
+      year: 2011
+    - title: BSc Linguistics
+      institution: Radboud University, Nijmegen
+      year: 2009
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher in Data Science
+      institution: HAN University of Applied Science
+      year: 2019 - now
+    - title: Data Scientist
+      institution: Financieel Dagblad
+      year: 2018-2019
+      description:
+        - Automatic news summarization
+        - News recommendation
+    - title: Researcher in Data Science
+      institution: TNO
+      year: 2011-2018
+      description:
+        - machine learning
+        - text mining
+        - recommender systems

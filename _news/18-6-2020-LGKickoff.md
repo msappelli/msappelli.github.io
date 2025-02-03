@@ -17,6 +17,6 @@ I will also think about quantitative solutions, when we are working with data of
 On the **18th of June** we will have a kick-off for our HAN **"Leergemeenschap Onderzoeksmethodologie"**.
 In this collaboration, Lineke van Hal and myself aim to bring awareness and create a learning environment
 
-We were also interviewed by Margriet van Aalten, which you can find [here (in Dutch)](https://www.han.nl/onderzoek/nieuws/inclusief-onderzoek-recht/)
+We were also interviewed by Margriet van Aalten, which you can find [here (in Dutch)](https://www.han.nl/nieuws/2021/01/inclusief-onderzoek-recht-doen-aan-verschillen/)
 
 
