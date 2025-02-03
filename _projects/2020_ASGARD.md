@@ -3,7 +3,7 @@ layout: page
 title: ASGARD
 description: Applied Sciences Group for ARtificial intelligence and Data science
 img: /assets/img/3.jpg
-importance: 1
+importance: 3
 category: past
 ---
 

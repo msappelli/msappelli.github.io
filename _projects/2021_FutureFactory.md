@@ -3,7 +3,7 @@ layout: page
 title: Future Factory
 description: data science for sustainable homes
 img: /assets/img/8.jpg
-importance: 1
+importance: 2
 category: past
 ---
 

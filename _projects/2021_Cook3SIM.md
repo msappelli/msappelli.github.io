@@ -3,7 +3,7 @@ layout: page
 title: Cook3R SIM
 description: reinforcement learning for product innovations
 img: /assets/img/4.jpg
-importance: 1
+importance: 2
 category: past
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: TELEMAP
 description: Text mining for detecting palliative stage in EPDs
 img: /assets/img/1.jpg
-importance: 1
+importance: 2
 category: projects
 ---
 

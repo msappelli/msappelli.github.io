@@ -3,7 +3,7 @@ layout: page
 title: Research Methodology
 description: Learning Environment on research methods for health differences 
 img: /assets/img/dataanalyse.jpg
-importance: 1
+importance: 3
 category: education
 ---
 
