@@ -78,11 +78,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/24-2-2022-LGWorkshop/";
-            },},{id: "news-ethiek-inclusiviteit-amp-ai-han-symposium-durf-te-denken",
-          title: 'Ethiek, Inclusiviteit &amp;amp; AI  @ HAN symposium Durf te Denken!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/07-04-2022-EthiekAI/";
             },},{id: "news-pitch-innoboot-ai-for-improving-life",
           title: 'Pitch @ Innoboot - AI for improving life',
           description: "",
@@ -138,6 +133,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/01-01-2025-inclusievetaal/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/01-01-2026-BEP/";
+            },},{id: "news-ethiek-inclusiviteit-amp-ai-han-symposium-durf-te-denken",
+          title: 'Ethiek, Inclusiviteit &amp;amp; AI  @ HAN symposium Durf te Denken!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/07-04-2022-EthiekAI/";
             },},{id: "news-predicting-palliative-phase-from-textual-reports-in-electronic-health-records",
           title: 'Predicting palliative phase from textual reports in electronic health records',
           description: "",
