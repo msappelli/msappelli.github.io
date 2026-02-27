@@ -123,6 +123,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/29-9-2024-ekaw/";
+            },},{id: "news-genderneutrale-wetgeving-project-ended",
+          title: 'Genderneutrale Wetgeving project ended',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/31-01-2025-GN/";
             },},{id: "news-extra-round-of-master-applied-data-science",
           title: 'Extra round of Master Applied Data Science',
           description: "",
@@ -133,6 +138,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/01-01-2025-inclusievetaal/";
+            },},{id: "news-predicting-palliative-phase-from-textual-reports-in-electronic-health-records",
+          title: 'Predicting palliative phase from textual reports in electronic health records',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/09-07-2025-CLIN/";
             },},{id: "projects-asgard",
           title: 'ASGARD',
           description: "Applied Sciences Group for ARtificial intelligence and Data science",
@@ -188,6 +198,11 @@ ninja.data = [{
           description: "Text mining for communication",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_BEP-27/";
+            },},{id: "projects-genderneutrale-wetgeving",
+          title: 'Genderneutrale Wetgeving',
+          description: "Text mining for inclusivity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_GenderneutraleWetgeving/";
             },},{id: "projects-knowledge-platform",
           title: 'Knowledge Platform',
           description: "Improving information access within HAN",
