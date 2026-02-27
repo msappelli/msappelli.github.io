@@ -2,7 +2,7 @@
 layout: page
 title: Genderneutrale Wetgeving
 description: Text mining for inclusivity
-img: /assets/img/genderdeuntraal.png
+img: /assets/img/genderneutraal.png
 importance: 1
 category: past
 ---
