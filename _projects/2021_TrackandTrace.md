@@ -4,7 +4,7 @@ title: Track and Trace
 description: Energy Performance of Homes
 img: /assets/img/12.jpg
 importance: 2
-category: projects
+category: past
 ---
 
 ### Partners
