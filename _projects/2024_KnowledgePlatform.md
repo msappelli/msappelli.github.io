@@ -4,7 +4,7 @@ title: Knowledge Platform
 description: Improving information access within HAN
 img: /assets/img/9.jpg
 importance: 1
-category: projects
+category: past
 ---
 
 

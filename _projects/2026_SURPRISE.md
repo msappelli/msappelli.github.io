@@ -4,7 +4,7 @@ title: SURPRISE
 description: Strengthening the Impact of Health Research by connecting Patient-driven Infrastructures for Citizen Generated Data Patients
 img: /assets/img/3.jpg
 importance: 1
-category: past
+category: projects
 ---
 
 
