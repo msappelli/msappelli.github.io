@@ -52,18 +52,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-kickoff-quot-leergemeenschap-onderzoeksmethodologie-quot",
+    },{id: "news-kickoff-quot-leergemeenschap-onderzoeksmethodologie-quot",
           title: 'Kickoff &amp;quot;Leergemeenschap Onderzoeksmethodologie&amp;quot;',
           description: "",
           section: "News",handler: () => {
@@ -78,6 +67,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/24-2-2022-LGWorkshop/";
+            },},{id: "news-ethiek-inclusiviteit-amp-ai-han-symposium-durf-te-denken",
+          title: 'Ethiek, Inclusiviteit &amp;amp; AI  @ HAN symposium Durf te Denken!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/07-04-2022-EthiekAI/";
             },},{id: "news-pitch-innoboot-ai-for-improving-life",
           title: 'Pitch @ Innoboot - AI for improving life',
           description: "",
@@ -133,21 +127,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/01-01-2025-inclusievetaal/";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/01-01-2026-BEP/";
-            },},{id: "news-ethiek-inclusiviteit-amp-ai-han-symposium-durf-te-denken",
-          title: 'Ethiek, Inclusiviteit &amp;amp; AI  @ HAN symposium Durf te Denken!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/07-04-2022-EthiekAI/";
             },},{id: "news-predicting-palliative-phase-from-textual-reports-in-electronic-health-records",
           title: 'Predicting palliative phase from textual reports in electronic health records',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/09-07-2025-CLIN/";
+            },},{id: "news-language-matters-applying-discursive-psychology-to-media-monitoring-crisis-communication-and-issue-management",
+          title: 'Language matters: Applying discursive psychology to media monitoring, crisis communication, and issue management...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/01-01-2026-BEP/";
             },},{id: "news-applicability-of-the-valuesml-human-value-detection-model-on-student-progress-monitoring",
           title: 'Applicability of the ValuesML human value detection model on student progress monitoring',
           description: "",
