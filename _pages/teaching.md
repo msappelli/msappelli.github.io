@@ -31,6 +31,11 @@ I am co-promotor of 2 PhD students within the HAN:
 <h3> Graduation projects</h3>
 
 I have also been a (co-)supervisor on several master graduation projects:
+* _2026_ Ruben Stekelenburg (HAN/ UU) Physical activity trajectories in cardiac patients eligible for cardiac rehabilitation.
+* _2026_ Koen van Esterik (HAN / provincie Utrecht) Exploring Self-Supervised Models for Object Detection and Instance Segmentation in Aerial Imagery
+* _2026_ Marcello Wienhoven (HAN / Omgevingsdienst Midden-Holland) Predict Energy Labels of Residential Buildings Using Machine Learning
+* _2026_ Mischa Peters (HAN / Bovemij) Micro-Level Predictive Reserving for Dutch Motor Third-Party Liability Claims A Gamma GLM Approach to Complement the Actuarial Best Estimate
+* _2026_ Joel Vallo (HAN / ThUAS) Equity in higher education courses
 * _2025_ Myrthe Kanis (HAN / Reformatorisch Dagblad) Optimizing article visibility with machine learning: supporting web editors with predictive insights
 * _2025_ Sven Velthuis (HAN /  Yellax) Balancing Commuting Costs and Remote Work: A predictive approach to cost threshold adherence.
 * _2023_ Jaimy Göertz (Radboud University) Using concept mining for

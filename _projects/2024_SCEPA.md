@@ -2,9 +2,9 @@
 layout: page
 title: SCEPA
 description: Samen Strijden tegen EnergieArmoede
-img: /assets/img/9.jpg
+img: /assets/img/1.jpg
 importance: 1
-category: projects
+category: past
 ---
 
 
