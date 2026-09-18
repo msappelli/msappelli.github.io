@@ -148,6 +148,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/09-07-2025-CLIN/";
+            },},{id: "news-applicability-of-the-valuesml-human-value-detection-model-on-student-progress-monitoring",
+          title: 'Applicability of the ValuesML human value detection model on student progress monitoring',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/09-07-2026-CLIN/";
             },},{id: "projects-asgard",
           title: 'ASGARD',
           description: "Applied Sciences Group for ARtificial intelligence and Data science",
@@ -218,6 +223,11 @@ ninja.data = [{
           description: "Samen Strijden tegen EnergieArmoede",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_SCEPA/";
+            },},{id: "projects-surprise",
+          title: 'SURPRISE',
+          description: "Strengthening the Impact of Health Research by connecting Patient-driven Infrastructures for Citizen Generated Data Patients",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2026_SURPRISE/";
             },},{id: "projects-research-methodology",
           title: 'Research Methodology',
           description: "Learning Environment on research methods for health differences",
