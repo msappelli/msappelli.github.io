@@ -34,4 +34,4 @@ After my PhD I have worked at TNO on several research projects related to Machin
 Moreover, I did a cool project on personalized news summarization at FD Mediagroep.
 
 Currently, I am working at [HAN](http://www.han.nl) (University of Applied Sciences in Arnhem/Nijmegen) with the research group Data & Knowledge Engineering.
-I am working on several projects related to data science in general or text mining. We are also developing a master in Applied Data Science. See [projects](./projects) for more info!
+I am working on several projects related to data science in general or text mining. We have also developed a master in Applied Data Science. I am involved in several aspects of this master, such as the exam committee and coordination of the graduation process. See [projects](./projects) for more info!

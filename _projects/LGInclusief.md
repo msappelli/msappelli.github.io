@@ -4,7 +4,7 @@ title: Research Methodology
 description: Learning Environment on research methods for health differences 
 img: /assets/img/dataanalyse.jpg
 importance: 3
-category: education
+category: past
 ---
 
 ### Partners

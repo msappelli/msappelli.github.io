@@ -10,7 +10,7 @@ nav_order: 6
 I am involved in developing educational material for the Master Applied Data Science (see [MADS]({% link _projects/2020_MADS.md %} ))
 
 <h3 class="year">HAN</h3>
-* _2026-now:_ Gradution coordinator
+* _2026-now:_ Graduation coordinator
 * _2023-2025:_ several classes in Master Applied Data Science on the topics of text mining, data visualisation, data story telling and fairness
 * _2022-2023:_ Machine Learning (linear regression) in ['Minor Data Science'](https://www.kiesopmaat.nl/modules/han/FT/139104/) - HAN University of Applied Sciences
 * _2020-2022:_ Text Mining in ['Minor Data Science'](https://www.kiesopmaat.nl/modules/han/FT/139104/) - HAN University of Applied Sciences
