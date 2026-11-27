@@ -187,6 +187,11 @@ ninja.data = [{
           description: "Text mining for communication",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_Alliander/";
+            },},{id: "projects-icai-lab",
+          title: 'ICAI Lab',
+          description: "Knowledge Systems for supporting PhD and project communication",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023_ICAI/";
             },},{id: "projects-telemap",
           title: 'TELEMAP',
           description: "Text mining for detecting palliative stage in EPDs",
