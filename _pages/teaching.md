@@ -14,8 +14,8 @@ I am involved in developing educational material for the Master Applied Data Sci
 * _2023-2025:_ several classes in Master Applied Data Science on the topics of text mining, data visualisation, data story telling and fairness
 * _2022-2023:_ Machine Learning (linear regression) in ['Minor Data Science'](https://www.kiesopmaat.nl/modules/han/FT/139104/) - HAN University of Applied Sciences
 * _2020-2022:_ Text Mining in ['Minor Data Science'](https://www.kiesopmaat.nl/modules/han/FT/139104/) - HAN University of Applied Sciences
-* _2019-2022:_ Artificial Intelligence & Deep Learning in ['Smart Vehicles'](https://www.minoren-han.nl/nl/414-advanced-mobility-smart-vehicles-and-smart-infrastructure) - HAN University of Applied Sciences
-* _2020-2024:_ "van BI naar AI" in ['Business Information Management specialization of HBO ICT'](https://www.han.nl/opleidingen/hbo/hbo-ict/voltijd/dit-is-je-studie/) - HAN University of Applied Sciences
+* _2019-2022:_ Artificial Intelligence & Deep Learning in 'Smart Vehicles' - HAN University of Applied Sciences
+* _2020-2024:_ "van BI naar AI" in 'Business Information Management specialization of HBO ICT' - HAN University of Applied Sciences
 
 <h3 class="year">Radboud University</h3>
 * _2018-2022:_ Summarization in ['Text Mining'](https://sis.ru.nl/osiris-student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=LET-REMA-LCEX06&collegejaar=2019) - Radboud University
